@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Prim_visiualization/1.0.0": {
+        "runtime": {
+          "Prim_visiualization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prim_visiualization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
